@@ -19,10 +19,10 @@
        2- Ir para a sala das lâmpadas;
        3- Verificar qual das lâmpadas não acendeu;
        4- Voltar para a sala dos interruptores;
-       5- Verificar que a luz que não acendeu é do interruptor que não liguei (1/3);
+       5- Verificar que a luz que não acendeu é do interruptor que não foi ligado (1/3);
        6- Ainda na sala dos interruptores, desligar um dos outros dois interruptores que estavam ligados;
        7- Retornar para a sala das lâmpadas;
-       8- Verificar qual das lâmpadas foi apagada e descobrir assim que aquela lâmpada é do interruptor que desliguei (2/3);
-       9- Dessa forma saberá também que a lâmpada que ainda está acesa é do interruptor que não foi desligado (3/3), assim descobre-se qual interruptor acende cada lâmpada.
+       8- Verificar qual das lâmpadas foi apagada e descobrir assim que aquela lâmpada é do interruptor que foi desligado (2/3);
+       9- Dessa forma descobrirá também que a lâmpada que ainda está acesa é do interruptor que não foi desligado (3/3), assim descobre-se qual interruptor acende cada lâmpada.
 
 ## 05) [Codigo Q-05 Python](https://github.com/PessOak/Target_Test/blob/main/target_test_Q05.py)
