@@ -1,6 +1,6 @@
 # Questões resolvidas do desafio da Target
 
-## 01) Link Anexo Github (SOMA = 91) 
+## 01) [Codigo Q_01](https://github.com/PessOak/Target_Test/blob/main/target_test_Q01.py) (SOMA = 91) 
 
 ## 02) Link Anexo Github
 
