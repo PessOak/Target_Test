@@ -2,7 +2,7 @@
 
 ## 01) [Codigo Q_01](https://github.com/PessOak/Target_Test/blob/main/target_test_Q01.py) (SOMA = 91) 
 
-## 02) Link Anexo Github
+## 02) [Codigo Q_01](https://github.com/PessOak/Target_Test/blob/main/target_test_Q02.py)
 
 ## 03) 
        a- 9 (ímpares)
