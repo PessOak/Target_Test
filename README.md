@@ -1,8 +1,10 @@
 # Questões resolvidas do desafio da Target
 
-## 01) [Codigo Q-01](https://github.com/PessOak/Target_Test/blob/main/target_test_Q01.py) (SOMA = 91) 
+## 01) (SOMA = 91) 
+## [Codigo Q-01 C#](https://github.com/PessOak/Target_Test/blob/main/target_test_Q01.cs)
+## [Codigo Q-01 Python](https://github.com/PessOak/Target_Test/blob/main/target_test_Q01.py)
 
-## 02) [Codigo Q-02](https://github.com/PessOak/Target_Test/blob/main/target_test_Q02.py)
+## 02) [Codigo Q-02 Python](https://github.com/PessOak/Target_Test/blob/main/target_test_Q02.py)
 
 ## 03) 
        a- 9 (ímpares)
@@ -23,4 +25,4 @@
        8- Verificar qual das lâmpadas foi apagada e descobrir assim que aquela lâmpada é do interruptor que desliguei (2/3);
        9- Dessa forma saberá também que a lâmpada que ainda está acesa é do interruptor que não foi desligado (3/3), assim descobre-se qual interruptor acende cada lâmpada.
 
-## 05) [Codigo Q-05](https://github.com/PessOak/Target_Test/blob/main/target_test_Q05.py)
+## 05) [Codigo Q-05 Python](https://github.com/PessOak/Target_Test/blob/main/target_test_Q05.py)
