@@ -12,7 +12,7 @@
        c- 49 (7x7)
        d- 100 (10x10)
        e- 13 (Sequência de Fibonacci)
-       f- 200 (números que começam com a letra D)
+       f- 200 (números que começam com a letra D) -> Essa é cruel... confesso que tive que pesquisar
 
 ## 04) 
        1- Ligar 2 interruptores;
